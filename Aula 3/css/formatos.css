@@ -1,0 +1,39 @@
+.texto {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  padding: 2%;
+  text-align: justify;
+  width: 90%;
+  overflow: auto;
+}
+/*seletor de tag composto*/
+h1, h2, h3 {
+  color: #4B0082;
+  padding: 1%;
+}
+/*seletor de tag junto com classe*/
+/*formatação do menu qdo a pagina carregar*/
+.menu a {
+  background-color: #800080;
+  padding: 2px 5px;
+  border: 1px #EE82EE;
+  text-decoration: none;
+  margin-right: 5px;
+  color: white;
+}
+
+/*formatação do menu qdo o mouse passar sobre "hover"*/
+.menu a:hover {
+  background-color: darkviolet;
+}
+
+.table {
+  width: 80%;
+  background-color: #800000;
+  color: #696969;
+  border-radius: 10px;
+}
+
+thead, tfoot {
+  background-color: #ffa07a ;
+}

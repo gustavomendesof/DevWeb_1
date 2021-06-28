@@ -1,0 +1,35 @@
+body {
+  background-color: blue;
+}
+
+section {
+  width: 100%;
+  margin: auto;
+}
+
+header {
+  width: 100%;
+  background-color: yellow;
+  height: 100px;
+}
+
+aside {
+  width: 30%;
+  background-color: cornflowerblue;
+  height: 650px;
+  float: right;
+}
+
+article {
+  width: 70%;
+  background-color: white;
+  height: 650px;
+  float: left;
+}
+
+footer {
+  width: 100%;
+  background-color: cyan;
+  height: 50px;
+  clear: both;
+}

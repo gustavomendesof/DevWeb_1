@@ -1,0 +1,29 @@
+body {
+  background-color: blue;
+}
+
+section {
+  width: 100%;
+  margin: auto;
+}
+
+header {
+  width: 100%;
+  background-color: yellow;
+  height: 100px;
+}
+
+
+article {
+  width: 100%;
+  background-color: white;
+  height: 650px;
+  float: left;
+}
+
+footer {
+  width: 100%;
+  background-color: cyan;
+  height: 150px;
+  clear: both;
+}

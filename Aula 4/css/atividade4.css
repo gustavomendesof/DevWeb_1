@@ -1,0 +1,40 @@
+body {
+  background-color: darkgreen;
+}
+
+section {
+  width: 100%;
+  margin: auto;
+}
+header {
+  width: 100%;
+  background-color: white;
+  height: 100px;
+}
+
+aside {
+  width: 20%;
+  background-color: brown;
+  height: 800px;
+  float: left;
+}
+
+nav {
+  width: 100%;
+  background-color: cadetblue;
+  height: 50px;
+}
+
+article {
+  width: 80%;
+  background-color: chartreuse;
+  height: 650px;
+  float: right;
+}
+
+footer {
+  width: 100%;
+  background-color: crimson;
+  height: 115px;
+  clear: both;
+}
